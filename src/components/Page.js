@@ -57,8 +57,8 @@ const Page = () => {
                     <br></br>
                      <p className="form1">   
                         <label className="titre1">EXPERIENCES PROFESSIONNEL </label><br/><br/>
-                        <label className="contenu">* Realisaton d'un site web :Guide de Voyage dans la grande Ile (en Groupe)</label><br></br>
-                        <label className="contenu">* Realisaton application web :Gestion Transport </label><br></br>
+                        <label className="contenu">* Réalisaton d'un site web :Guide de Voyage dans la grande Ile (en Groupe)</label><br></br>
+                        <label className="contenu">* Réalisaton application web :Gestion Transport </label><br></br>
                     </p>
                 </p>
 
